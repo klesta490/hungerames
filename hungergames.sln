@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hungergames", "hungergames.csproj", "{DB157961-1B3A-45AD-BBD0-851B5A44A0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hungergames.Test", "..\hungergames.Test\hungergames.Test.csproj", "{F7A71657-D40A-47EC-A14C-65F558BDDDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB157961-1B3A-45AD-BBD0-851B5A44A0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB157961-1B3A-45AD-BBD0-851B5A44A0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB157961-1B3A-45AD-BBD0-851B5A44A0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB157961-1B3A-45AD-BBD0-851B5A44A0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A71657-D40A-47EC-A14C-65F558BDDDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A71657-D40A-47EC-A14C-65F558BDDDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A71657-D40A-47EC-A14C-65F558BDDDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A71657-D40A-47EC-A14C-65F558BDDDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9D12B3B-9D8A-483A-A2CE-D7D3FF25B68A}
+	EndGlobalSection
+EndGlobal
